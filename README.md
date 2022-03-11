@@ -53,8 +53,10 @@ I have been working in Cloud Computing, Configuration Management, DevOps in a va
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/terraform/terrafor-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 
 
 <p align="center">
