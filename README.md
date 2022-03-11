@@ -38,9 +38,9 @@ I have been working in Cloud Computing, Configuration Management, DevOps in a va
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dokcer/docker-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dokcer/docker-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dockcer/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
@@ -52,6 +52,9 @@ I have been working in Cloud Computing, Configuration Management, DevOps in a va
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
 
 
 <p align="center">
