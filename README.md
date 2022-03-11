@@ -36,11 +36,10 @@ I have been working in Cloud Computing, Configuration Management, DevOps in a va
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgres/postgres-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/solr/solr-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-ar21.svg"></code>
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
